@@ -1,0 +1,54 @@
+div#main1.row.clearfix, div#nav.row.clearfix {
+	border: 1px solid #c0c0c0;
+	padding: 15px;
+}
+
+#col1row2 {
+	margin-top: 20px;
+	border: 1px solid #c0c0c0;
+}
+#fivepics {
+	margin: 15px;
+	
+}
+#fivepics img {
+	margin: 10px;
+	display: inline;
+	
+}
+
+#col1row2 h4{
+	margin-left: 25px;
+	margin-top: 10px;
+}
+
+#orderA {
+	padding-left: -35px;
+	left: 40px;
+}
+
+#side{
+	padding-left: 40px;
+}
+
+#title{
+	padding-left: 15px;
+}
+
+#whether p{
+	font-size: 24px;
+	margin-top: 17px;
+	margin-bottom: 0px;
+}
+
+#hot{
+	color: red;
+}
+
+#cold{
+	color: blue;
+}
+
+#chance{
+	color: grey;
+}

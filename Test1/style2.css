@@ -1,0 +1,43 @@
+ul{
+	padding-left: 0;
+}
+
+.btn-lg, .btn-group-lg>.btn{
+	left: 30px;
+	padding-left: 240px;
+	padding-right: 240px;
+}
+
+.container{
+	padding:20px;
+	border: 1px solid #c0c0c0;
+	padding-right: 20px;
+	margin-left: 150px;
+	width: 750px;
+}
+
+#look{
+	left: 20px;
+}
+
+div.btn-group-vertical{
+
+}
+
+button.btn.btn-default.dropdown-toggle{
+	padding-bottom: 14px;
+	padding-top: 14px;
+}
+
+#lowerright{
+	left: -15px;
+}
+
+.rowclearfix p{
+	color: grey;
+}
+
+hr{
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
